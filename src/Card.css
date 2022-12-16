@@ -1,0 +1,26 @@
+.cards {
+  display: flex;
+  width: 428px;
+  height: 550px;
+  border: 1px solid black;
+  margin: 10px;
+}
+.card__img {
+  width: 428px;
+  height: 393px;
+}
+.card__category {
+  color: rgb(197, 6, 6);
+}
+.card__title {
+  color: rgba(128, 47, 22, 0.993);
+}
+button {
+  border-radius: 10px;
+  border: none;
+  background-color: red;
+  color: white;
+  width: 120px;
+  height: 40px;
+  font-size: 20px;
+}
